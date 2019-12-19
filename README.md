@@ -5,7 +5,7 @@ The text, the color of the text and the background color of the application can 
 
 ### App Walk-though
 
-<img src="blob:https://imgur.com/4e1e892b-60a6-4570-99e3-acd83f7f22a1" width=200><br>
+<img src="https://imgur.com/s1RINeC.gif" width=200><br>
 
 https://imgur.com/s1RINeC.gif
 
